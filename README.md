@@ -1,4 +1,5 @@
-# HelloExunit
+# HelloExunit 
+[![Build Status](https://travis-ci.org/fagossa/hello_exunit.svg?branch=master)](https://travis-ci.org/fagossa/hello_exunit)
 
 **TODO: Add description**
 
